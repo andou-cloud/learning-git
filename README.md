@@ -14,5 +14,7 @@ Gitの学習用リポジトリです。
 ## 次やること
 - Gitの基本操作を繰り返し練習する
 
+- GitHub Desktopを使って commit/push の流れを確認した
+
 
 
